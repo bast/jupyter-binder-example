@@ -1,2 +1,2 @@
-altair
-pandas
+altair==4.1.0
+pandas==1.1.3
